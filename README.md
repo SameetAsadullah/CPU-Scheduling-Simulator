@@ -18,10 +18,13 @@
     ```
     ./a.out
     ```
-3) You can `Change Processes` in the files named as Sample_1_RR.txt, Sample_2_FCFS.txt, Sample_4_SJF.txt
+3) You can `Change Processes` in the files named as Sample_1_RR.txt, Sample_2_FCFS.txt, Sample_4_SJF.txt. Its format is given below:
+    - First line indicates scheduling algorithm to perform.
+    - Second line indicates quantum for RR.
+    - Further lines indicate process number, its arrival time, and its cpu burst required.
 4) You can see `Final Output` i.e, throughput, average waiting time, average turnaround time in the file named as `processes_stats.txt`
     
-### Working Screenshot
+### Working Screenshots
 <div align="center">
   <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-1.png" alt = "" width="700px"/>
 </div>
