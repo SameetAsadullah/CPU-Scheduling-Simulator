@@ -1,12 +1,12 @@
 After First 30 Ticks:
-	Throughput: 5
-	Average Waiting Time: 4.200000
-	Average Turnaround Time: 8.400000
+	Throughput: 1
+	Average Waiting Time: 24.000000
+	Average Turnaround Time: 26.000000
 
-Final Result: 
+nal Result: 
 	Throughput: 6
-	Average Waiting Time: 8.000000
-	Average Turnaround Time: 12.83333316.000000
+	Average Waiting Time: 8.833333
+	Average Turnaround Time: 13.66666716.000000
 
 After First 90 Ticks:
 	Throughput: 6
