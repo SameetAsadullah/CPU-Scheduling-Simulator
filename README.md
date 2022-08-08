@@ -23,13 +23,13 @@
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-1.png" alt = "" width="700px"/>
+  <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-1.png" alt = "" width="800px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-2.png" alt = "" width="700px"/>
+  <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-2.png" alt = "" width="800px"/>
 </div>
 <br/>
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-3.png" alt = "" width="700px"/>
+  <img src = "https://github.com/SameetAsadullah/CPU-Scheduling-Simulator/blob/main/extras/working-ss-3.png" alt = "" width="800px"/>
 </div>
