@@ -19,7 +19,7 @@
     ./a.out
     ```
 3) You can `Change Processes` in the files named as Sample_1_RR.txt, Sample_2_FCFS.txt, Sample_4_SJF.txt
-4) You can see `Final Output` i.e, throughput, average waiting time, average turnaround time in the file named as processes_stats.txt
+4) You can see `Final Output` i.e, throughput, average waiting time, average turnaround time in the file named as `processes_stats.txt`
     
 ### Working Screenshot
 <div align="center">
